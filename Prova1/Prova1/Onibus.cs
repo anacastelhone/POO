@@ -10,7 +10,7 @@ namespace Prova1
     {
         double assento;
 
-        public Onibus(string nome, int anoAtual, int anoVeiculo, double assento) : base(nome, anoAtual, anoVeiculo)
+        public Onibus(string nome, string placa, int anoAtual, int anoVeiculo, double assento) : base(nome,placa, anoAtual, anoVeiculo)
         {
             this.Assento= assento;
         }

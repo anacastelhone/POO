@@ -10,7 +10,7 @@ namespace Prova1
     {
         double eixo;
 
-        public Caminhao(string nome, int anoAtual, int anoVeiculo, double eixo) : base(nome, anoAtual, anoVeiculo)
+        public Caminhao(string nome, string placa, int anoAtual, int anoVeiculo, double eixo) : base(nome,placa, anoAtual, anoVeiculo)
         {
             this.Eixo = eixo;
         }

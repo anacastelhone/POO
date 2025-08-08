@@ -42,6 +42,10 @@
             this.colanoveiculo = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.coldiaria = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.btCalcular = new System.Windows.Forms.Button();
+            this.lbplaca = new System.Windows.Forms.Label();
+            this.tbplaca = new System.Windows.Forms.TextBox();
+            this.colplaca = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.lbrelatorio = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // rbonibus
@@ -70,7 +74,7 @@
             // 
             // tbanoa
             // 
-            this.tbanoa.Location = new System.Drawing.Point(193, 107);
+            this.tbanoa.Location = new System.Drawing.Point(193, 125);
             this.tbanoa.Name = "tbanoa";
             this.tbanoa.Size = new System.Drawing.Size(100, 22);
             this.tbanoa.TabIndex = 2;
@@ -84,7 +88,7 @@
             // 
             // tbanov
             // 
-            this.tbanov.Location = new System.Drawing.Point(193, 148);
+            this.tbanov.Location = new System.Drawing.Point(193, 160);
             this.tbanov.Name = "tbanov";
             this.tbanov.Size = new System.Drawing.Size(100, 22);
             this.tbanov.TabIndex = 4;
@@ -92,7 +96,7 @@
             // lbanoatual
             // 
             this.lbanoatual.AutoSize = true;
-            this.lbanoatual.Location = new System.Drawing.Point(90, 107);
+            this.lbanoatual.Location = new System.Drawing.Point(97, 128);
             this.lbanoatual.Name = "lbanoatual";
             this.lbanoatual.Size = new System.Drawing.Size(67, 16);
             this.lbanoatual.TabIndex = 5;
@@ -101,7 +105,7 @@
             // lbanoveiculo
             // 
             this.lbanoveiculo.AutoSize = true;
-            this.lbanoveiculo.Location = new System.Drawing.Point(91, 154);
+            this.lbanoveiculo.Location = new System.Drawing.Point(97, 166);
             this.lbanoveiculo.Name = "lbanoveiculo";
             this.lbanoveiculo.Size = new System.Drawing.Size(82, 16);
             this.lbanoveiculo.TabIndex = 6;
@@ -110,7 +114,7 @@
             // lbassentos
             // 
             this.lbassentos.AutoSize = true;
-            this.lbassentos.Location = new System.Drawing.Point(91, 201);
+            this.lbassentos.Location = new System.Drawing.Point(97, 204);
             this.lbassentos.Name = "lbassentos";
             this.lbassentos.Size = new System.Drawing.Size(66, 16);
             this.lbassentos.TabIndex = 7;
@@ -120,13 +124,14 @@
             // 
             this.ListVeiculos.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.colnome,
+            this.colplaca,
             this.colanoatual,
             this.colanoveiculo,
             this.coldiaria});
             this.ListVeiculos.HideSelection = false;
-            this.ListVeiculos.Location = new System.Drawing.Point(74, 276);
+            this.ListVeiculos.Location = new System.Drawing.Point(27, 291);
             this.ListVeiculos.Name = "ListVeiculos";
-            this.ListVeiculos.Size = new System.Drawing.Size(619, 124);
+            this.ListVeiculos.Size = new System.Drawing.Size(761, 133);
             this.ListVeiculos.TabIndex = 8;
             this.ListVeiculos.UseCompatibleStateImageBehavior = false;
             this.ListVeiculos.View = System.Windows.Forms.View.Details;
@@ -153,19 +158,53 @@
             // 
             // btCalcular
             // 
-            this.btCalcular.Location = new System.Drawing.Point(409, 136);
+            this.btCalcular.Location = new System.Drawing.Point(472, 160);
             this.btCalcular.Name = "btCalcular";
-            this.btCalcular.Size = new System.Drawing.Size(130, 46);
+            this.btCalcular.Size = new System.Drawing.Size(152, 63);
             this.btCalcular.TabIndex = 9;
             this.btCalcular.Text = "Cadastrar";
             this.btCalcular.UseVisualStyleBackColor = true;
             this.btCalcular.Click += new System.EventHandler(this.btCalcular_Click);
+            // 
+            // lbplaca
+            // 
+            this.lbplaca.AutoSize = true;
+            this.lbplaca.Location = new System.Drawing.Point(97, 90);
+            this.lbplaca.Name = "lbplaca";
+            this.lbplaca.Size = new System.Drawing.Size(45, 16);
+            this.lbplaca.TabIndex = 10;
+            this.lbplaca.Text = "Placa:";
+            // 
+            // tbplaca
+            // 
+            this.tbplaca.Location = new System.Drawing.Point(193, 87);
+            this.tbplaca.Name = "tbplaca";
+            this.tbplaca.Size = new System.Drawing.Size(100, 22);
+            this.tbplaca.TabIndex = 11;
+            // 
+            // colplaca
+            // 
+            this.colplaca.Text = "Placa";
+            this.colplaca.Width = 89;
+            // 
+            // lbrelatorio
+            // 
+            this.lbrelatorio.AutoSize = true;
+            this.lbrelatorio.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbrelatorio.Location = new System.Drawing.Point(32, 263);
+            this.lbrelatorio.Name = "lbrelatorio";
+            this.lbrelatorio.Size = new System.Drawing.Size(88, 25);
+            this.lbrelatorio.TabIndex = 12;
+            this.lbrelatorio.Text = "Relatório";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lbrelatorio);
+            this.Controls.Add(this.tbplaca);
+            this.Controls.Add(this.lbplaca);
             this.Controls.Add(this.btCalcular);
             this.Controls.Add(this.ListVeiculos);
             this.Controls.Add(this.lbassentos);
@@ -199,6 +238,10 @@
         private System.Windows.Forms.ColumnHeader colanoveiculo;
         private System.Windows.Forms.ColumnHeader coldiaria;
         private System.Windows.Forms.Button btCalcular;
+        private System.Windows.Forms.Label lbplaca;
+        private System.Windows.Forms.TextBox tbplaca;
+        private System.Windows.Forms.ColumnHeader colplaca;
+        private System.Windows.Forms.Label lbrelatorio;
     }
 }
 

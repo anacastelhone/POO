@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -21,15 +22,16 @@ namespace Prova1
         {
             if(rbcaminhao.Checked)
             {
-                
+                String placa = tbplaca.Text;
                 int anoAtual=int.Parse(tbanoa.Text);
                 int anoVeiculo=int .Parse(tbanov.Text);
                 double eixo = double.Parse(tbassentos.Text);
-                Caminhao cam = new Caminhao("Caminhão", anoAtual, anoVeiculo, eixo);
+                Caminhao cam = new Caminhao("Caminhão",placa, anoAtual, anoVeiculo, eixo);
 
                 string[] item = new string[]
                 {
                     cam.Nome,
+                    cam.Placa,
                     cam.AnoVeiculo.ToString(),
                     cam.AnoAtual.ToString(),
                     cam.diaria().ToString("F2")
@@ -39,14 +41,16 @@ namespace Prova1
             }
             else if (rbonibus.Checked)
             {
+                string placa = tbplaca.Text;
                 int anoAtual = int.Parse(tbanoa.Text);
                 int anoVeiculo = int.Parse(tbanov.Text);
                 double assento = double.Parse(tbassentos.Text);
-                Onibus oni = new Onibus("Ônibus", anoAtual, anoVeiculo, assento);
+                Onibus oni = new Onibus("Ônibus",placa, anoAtual, anoVeiculo, assento);
 
                 string[] item = new string[]
                 {
                     oni.Nome,
+                    oni.Placa,
                     oni.AnoVeiculo.ToString(),
                     oni.AnoAtual.ToString(),
                     oni.diaria().ToString("F2")
