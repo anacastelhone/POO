@@ -1,0 +1,10 @@
+C:\Users\anaca\source\repos\Prova1\Prova1\bin\Debug\Prova1.exe.config
+C:\Users\anaca\source\repos\Prova1\Prova1\bin\Debug\Prova1.exe
+C:\Users\anaca\source\repos\Prova1\Prova1\bin\Debug\Prova1.pdb
+C:\Users\anaca\source\repos\Prova1\Prova1\obj\Debug\Prova1.csproj.AssemblyReference.cache
+C:\Users\anaca\source\repos\Prova1\Prova1\obj\Debug\Prova1.Form1.resources
+C:\Users\anaca\source\repos\Prova1\Prova1\obj\Debug\Prova1.Properties.Resources.resources
+C:\Users\anaca\source\repos\Prova1\Prova1\obj\Debug\Prova1.csproj.GenerateResource.cache
+C:\Users\anaca\source\repos\Prova1\Prova1\obj\Debug\Prova1.csproj.CoreCompileInputs.cache
+C:\Users\anaca\source\repos\Prova1\Prova1\obj\Debug\Prova1.exe
+C:\Users\anaca\source\repos\Prova1\Prova1\obj\Debug\Prova1.pdb

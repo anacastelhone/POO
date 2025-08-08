@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anaca\\source\\repos\\Prova1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F34A5717-EE2F-434C-B3EA-AA6667594108}|Prova1\\Prova1.csproj|c:\\users\\anaca\\source\\repos\\prova1\\prova1\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34A5717-EE2F-434C-B3EA-AA6667594108}|Prova1\\Prova1.csproj|solutionrelative:prova1\\caminhao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34A5717-EE2F-434C-B3EA-AA6667594108}|Prova1\\Prova1.csproj|C:\\Users\\anaca\\source\\repos\\Prova1\\prova1\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34A5717-EE2F-434C-B3EA-AA6667594108}|Prova1\\Prova1.csproj|solutionrelative:prova1\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34A5717-EE2F-434C-B3EA-AA6667594108}|Prova1\\Prova1.csproj|C:\\Users\\anaca\\source\\repos\\Prova1\\prova1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F34A5717-EE2F-434C-B3EA-AA6667594108}|Prova1\\Prova1.csproj|solutionrelative:prova1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34A5717-EE2F-434C-B3EA-AA6667594108}|Prova1\\Prova1.csproj|C:\\Users\\anaca\\source\\repos\\Prova1\\prova1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34A5717-EE2F-434C-B3EA-AA6667594108}|Prova1\\Prova1.csproj|solutionrelative:prova1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34A5717-EE2F-434C-B3EA-AA6667594108}|Prova1\\Prova1.csproj|C:\\Users\\anaca\\source\\repos\\Prova1\\prova1\\onibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34A5717-EE2F-434C-B3EA-AA6667594108}|Prova1\\Prova1.csproj|solutionrelative:prova1\\onibus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Caminhao.cs",
+              "DocumentMoniker": "C:\\Users\\anaca\\source\\repos\\Prova1\\Prova1\\Caminhao.cs",
+              "RelativeDocumentMoniker": "Prova1\\Caminhao.cs",
+              "ToolTip": "C:\\Users\\anaca\\source\\repos\\Prova1\\Prova1\\Caminhao.cs",
+              "RelativeToolTip": "Prova1\\Caminhao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:57:06.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Onibus.cs",
+              "DocumentMoniker": "C:\\Users\\anaca\\source\\repos\\Prova1\\Prova1\\Onibus.cs",
+              "RelativeDocumentMoniker": "Prova1\\Onibus.cs",
+              "ToolTip": "C:\\Users\\anaca\\source\\repos\\Prova1\\Prova1\\Onibus.cs",
+              "RelativeToolTip": "Prova1\\Onibus.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:56:50.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\anaca\\source\\repos\\Prova1\\Prova1\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Prova1\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\anaca\\source\\repos\\Prova1\\Prova1\\Veiculo.cs",
+              "RelativeToolTip": "Prova1\\Veiculo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:56:21.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anaca\\source\\repos\\Prova1\\Prova1\\Form1.cs",
+              "RelativeDocumentMoniker": "Prova1\\Form1.cs",
+              "ToolTip": "C:\\Users\\anaca\\source\\repos\\Prova1\\Prova1\\Form1.cs",
+              "RelativeToolTip": "Prova1\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:51:31.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anaca\\source\\repos\\Prova1\\Prova1\\Form1.cs",
+              "RelativeDocumentMoniker": "Prova1\\Form1.cs",
+              "ToolTip": "C:\\Users\\anaca\\source\\repos\\Prova1\\Prova1\\Form1.cs [Design]",
+              "RelativeToolTip": "Prova1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T11:50:42.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
