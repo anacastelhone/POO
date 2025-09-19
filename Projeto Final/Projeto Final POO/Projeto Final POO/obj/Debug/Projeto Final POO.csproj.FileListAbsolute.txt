@@ -1,0 +1,34 @@
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\Projeto Final POO.exe.config
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\Projeto Final POO.exe
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\Projeto Final POO.pdb
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\Npgsql.dll
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Buffers.dll
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Memory.dll
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Text.Json.dll
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Threading.Channels.dll
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.ValueTuple.dll
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\Npgsql.xml
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Buffers.xml
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Memory.xml
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Text.Json.xml
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Threading.Channels.xml
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\bin\Debug\System.ValueTuple.xml
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\obj\Debug\Projeto Final POO.csproj.AssemblyReference.cache
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\obj\Debug\Projeto_Final_POO.Properties.Resources.resources
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\obj\Debug\Projeto Final POO.csproj.GenerateResource.cache
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\obj\Debug\Projeto Final POO.csproj.CoreCompileInputs.cache
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\obj\Debug\Projeto .BE256065.Up2Date
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\obj\Debug\Projeto Final POO.exe
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\obj\Debug\Projeto Final POO.pdb
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\obj\Debug\Projeto Final POO.exe.config
+C:\Users\anaca\source\repos\Projeto Final POO\Projeto Final POO\obj\Debug\Projeto_Final_POO.Form1.resources
